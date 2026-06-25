@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8AJB7ym_kACUpTQzLYVe">
-    <mxGraphModel dx="4300" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2867" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d18bzVhuxWHx9T7bHSMl-1" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
+          <mxGeometry height="53" width="78" x="2850" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="d18bzVhuxWHx9T7bHSMl-2" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.wireless_router;" value="" vertex="1">
+          <mxGeometry height="77" width="78" x="2850" y="2020" as="geometry" />
+        </mxCell>
         <mxCell id="9afVOr1IyTokZRvBwqDf-1" parent="0" />
         <mxCell id="9afVOr1IyTokZRvBwqDf-2" parent="9afVOr1IyTokZRvBwqDf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="181.86" width="60" x="531" y="1670.14" as="geometry" />
