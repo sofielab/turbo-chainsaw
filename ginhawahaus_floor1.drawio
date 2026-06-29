@@ -2554,7 +2554,7 @@
         <mxCell id="e78Vc9k8Z1hvBlpVAyLO-1196" parent="e78Vc9k8Z1hvBlpVAyLO-1192" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop2;fillColor=#fafafa;strokeColor=#005073;" value="" vertex="1">
           <mxGeometry height="35" width="50" x="2964.5" y="1650" as="geometry" />
         </mxCell>
-        <mxCell id="e78Vc9k8Z1hvBlpVAyLO-1198" parent="S6GxVHu3CLrmDXEQajHA-0" style="locked=1;" value="label Layer" />
+        <mxCell id="e78Vc9k8Z1hvBlpVAyLO-1198" parent="S6GxVHu3CLrmDXEQajHA-0" style="locked=0;" value="label Layer" />
         <mxCell id="e78Vc9k8Z1hvBlpVAyLO-1200" parent="e78Vc9k8Z1hvBlpVAyLO-1198" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=47;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=24;gradientColor=#ffd966;" value="RECEPTION / LOBBY" vertex="1">
           <mxGeometry height="144" width="341" x="549" y="1133" as="geometry" />
         </mxCell>
@@ -2580,7 +2580,7 @@
           <mxGeometry height="50" width="249" x="1025" y="1289" as="geometry" />
         </mxCell>
         <mxCell id="e78Vc9k8Z1hvBlpVAyLO-1210" parent="e78Vc9k8Z1hvBlpVAyLO-1198" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=51;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;fontSize=24;gradientColor=#d5739d;" value="LOGISTICS - VLAN 70" vertex="1">
-          <mxGeometry height="148" width="473" x="1766" y="1533" as="geometry" />
+          <mxGeometry height="148" width="473" x="1794" y="1703" as="geometry" />
         </mxCell>
         <mxCell id="e78Vc9k8Z1hvBlpVAyLO-1211" parent="e78Vc9k8Z1hvBlpVAyLO-1210" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=default;" value="55 Staff - 5 drops - IDF-3 -&amp;gt; ACC-SW3" vertex="1">
           <mxGeometry height="30" width="473" y="51" as="geometry" />
@@ -2869,7 +2869,7 @@
           <mxGeometry height="47" width="47" x="2628" y="1526" as="geometry" />
         </mxCell>
         <mxCell id="PL-narIOaq-0Gp_KsNlf-90" parent="e78Vc9k8Z1hvBlpVAyLO-1311" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.cell_phone2;fillColor=#fafafa;strokeColor=#005073;" value="" vertex="1">
-          <mxGeometry height="50" width="25" x="2305" y="1563" as="geometry" />
+          <mxGeometry height="50" width="25" x="1770" y="1523" as="geometry" />
         </mxCell>
         <mxCell id="PL-narIOaq-0Gp_KsNlf-91" parent="e78Vc9k8Z1hvBlpVAyLO-1311" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.laptop;" value="" vertex="1">
           <mxGeometry height="48" width="66" x="472" y="487" as="geometry" />
@@ -3021,9 +3021,6 @@
         </mxCell>
         <mxCell id="d0vmzRhiTrqKJLg9V8bs-29" edge="1" parent="d0vmzRhiTrqKJLg9V8bs-12" source="d0vmzRhiTrqKJLg9V8bs-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 1;strokeWidth=7;rounded=0;sourcePerimeterSpacing=0;startSize=10;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" target="PL-narIOaq-0Gp_KsNlf-90" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="1822" y="1342" />
-            </Array>
             <mxPoint x="2365" y="1779" as="sourcePoint" />
             <mxPoint x="2316" y="1617" as="targetPoint" />
           </mxGeometry>
