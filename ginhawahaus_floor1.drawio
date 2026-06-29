@@ -5262,8 +5262,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of floorplan w diagram 1" id="4JAZz9Ri2EWn2a9keO1j">
-    <mxGraphModel dx="673" dy="1458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="first floor" id="4JAZz9Ri2EWn2a9keO1j">
+    <mxGraphModel dx="5656" dy="4104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JP_Ym_LcojWrw7_O7429-0" />
         <mxCell id="JP_Ym_LcojWrw7_O7429-1" parent="JP_Ym_LcojWrw7_O7429-0" style="locked=1;" value="main" />
@@ -10690,7 +10690,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of 2floorplan w diagram 2" id="2Po-i0fmdAMAhZZIeYBd">
+  <diagram name="second floor" id="2Po-i0fmdAMAhZZIeYBd">
     <mxGraphModel dx="5656" dy="4104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HqQ3YoK5g5vWLo2ryZLH-0" />
