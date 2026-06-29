@@ -10702,7 +10702,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of 2floorplan w diagram 2" id="2Po-i0fmdAMAhZZIeYBd">
-    <mxGraphModel dx="1178" dy="1726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="1984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HqQ3YoK5g5vWLo2ryZLH-0" />
         <mxCell id="HqQ3YoK5g5vWLo2ryZLH-1" parent="HqQ3YoK5g5vWLo2ryZLH-0" style="locked=1;" value="main" />
@@ -13755,6 +13755,9 @@
         </mxCell>
         <mxCell id="0FK6Ae6eTtfjEDjbfojF-0" parent="HqQ3YoK5g5vWLo2ryZLH-934" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.data_jack;" value="" vertex="1">
           <mxGeometry height="47" width="47" x="770" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="0FK6Ae6eTtfjEDjbfojF-2" parent="HqQ3YoK5g5vWLo2ryZLH-934" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.misc.access_point;" value="" vertex="1">
+          <mxGeometry height="34" width="75" x="764" y="352.99999999999955" as="geometry" />
         </mxCell>
         <mxCell id="HqQ3YoK5g5vWLo2ryZLH-1017" parent="HqQ3YoK5g5vWLo2ryZLH-0" value="connection" />
         <mxCell id="HqQ3YoK5g5vWLo2ryZLH-1018" edge="1" parent="HqQ3YoK5g5vWLo2ryZLH-1017" source="HqQ3YoK5g5vWLo2ryZLH-936" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" target="HqQ3YoK5g5vWLo2ryZLH-997">
