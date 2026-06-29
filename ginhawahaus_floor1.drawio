@@ -5263,7 +5263,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of floorplan w diagram 1" id="4JAZz9Ri2EWn2a9keO1j">
-    <mxGraphModel dx="1347" dy="1815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1571" dy="1934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JP_Ym_LcojWrw7_O7429-0" />
         <mxCell id="JP_Ym_LcojWrw7_O7429-1" parent="JP_Ym_LcojWrw7_O7429-0" style="locked=1;" value="main" />
@@ -6955,7 +6955,7 @@
           <mxGeometry height="21" width="120" x="3190" y="1521" as="geometry" />
         </mxCell>
         <mxCell id="JP_Ym_LcojWrw7_O7429-556" parent="JP_Ym_LcojWrw7_O7429-479" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.data_jack;" value="" vertex="1">
-          <mxGeometry height="18" width="47" x="2628" y="1542" as="geometry" />
+          <mxGeometry height="18" width="47" x="2485" y="1549" as="geometry" />
         </mxCell>
         <mxCell id="JP_Ym_LcojWrw7_O7429-557" parent="JP_Ym_LcojWrw7_O7429-479" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.cell_phone2;fillColor=#fafafa;strokeColor=#005073;" value="" vertex="1">
           <mxGeometry height="50" width="25" x="1770" y="1523" as="geometry" />
@@ -7050,11 +7050,14 @@
         <mxCell id="Coi85Zy0IHEhwFjlxF0j-4" parent="JP_Ym_LcojWrw7_O7429-479" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;" value="" vertex="1">
           <mxGeometry height="50" width="101" x="635" y="239" as="geometry" />
         </mxCell>
+        <mxCell id="Coi85Zy0IHEhwFjlxF0j-19" edge="1" parent="JP_Ym_LcojWrw7_O7429-479" source="Coi85Zy0IHEhwFjlxF0j-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=none;endFill=0;" target="Coi85Zy0IHEhwFjlxF0j-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Coi85Zy0IHEhwFjlxF0j-6" parent="JP_Ym_LcojWrw7_O7429-479" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.data_jack;" value="" vertex="1">
-          <mxGeometry height="47" width="47" x="2623" y="1580" as="geometry" />
+          <mxGeometry height="47" width="47" x="2628" y="1524.5" as="geometry" />
         </mxCell>
         <mxCell id="Coi85Zy0IHEhwFjlxF0j-9" parent="JP_Ym_LcojWrw7_O7429-479" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;" value="" vertex="1">
-          <mxGeometry height="50" width="101" x="2593" y="1522" as="geometry" />
+          <mxGeometry height="50" width="101" x="2464" y="1546" as="geometry" />
         </mxCell>
         <mxCell id="Coi85Zy0IHEhwFjlxF0j-10" parent="JP_Ym_LcojWrw7_O7429-479" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.misc.access_point;" value="" vertex="1">
           <mxGeometry height="34" width="75" x="2061" y="520.9999999999995" as="geometry" />
@@ -7147,14 +7150,14 @@
             <mxPoint x="2316" y="1617" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JP_Ym_LcojWrw7_O7429-596" edge="1" parent="JP_Ym_LcojWrw7_O7429-585" source="JP_Ym_LcojWrw7_O7429-539" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="JP_Ym_LcojWrw7_O7429-556" value="">
+        <mxCell id="JP_Ym_LcojWrw7_O7429-596" edge="1" parent="JP_Ym_LcojWrw7_O7429-585" source="JP_Ym_LcojWrw7_O7429-539" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Coi85Zy0IHEhwFjlxF0j-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="1998" y="1392" />
               <mxPoint x="2652" y="1392" />
             </Array>
             <mxPoint x="2022" y="646" as="sourcePoint" />
-            <mxPoint x="2185" y="1305" as="targetPoint" />
+            <mxPoint x="2553" y="1679" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JP_Ym_LcojWrw7_O7429-597" edge="1" parent="JP_Ym_LcojWrw7_O7429-585" source="JP_Ym_LcojWrw7_O7429-556" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" target="JP_Ym_LcojWrw7_O7429-487" value="">
@@ -7175,7 +7178,7 @@
             <mxPoint x="2492" y="1497" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JP_Ym_LcojWrw7_O7429-600" edge="1" parent="JP_Ym_LcojWrw7_O7429-585" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" target="JP_Ym_LcojWrw7_O7429-572" value="">
+        <mxCell id="JP_Ym_LcojWrw7_O7429-600" edge="1" parent="JP_Ym_LcojWrw7_O7429-585" source="JP_Ym_LcojWrw7_O7429-556" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" target="JP_Ym_LcojWrw7_O7429-572" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2631" y="1550" as="sourcePoint" />
             <mxPoint x="2365" y="1492" as="targetPoint" />
