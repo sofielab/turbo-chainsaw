@@ -1223,7 +1223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="floorplan w diagram 1" id="e4sX3VyYfc9MtBisIjdf">
-    <mxGraphModel dx="2457" dy="2331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="1962" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="S6GxVHu3CLrmDXEQajHA-0" />
         <mxCell id="e78Vc9k8Z1hvBlpVAyLO-794" parent="S6GxVHu3CLrmDXEQajHA-0" style="locked=1;" value="main" />
@@ -3108,6 +3108,10 @@
         </mxCell>
         <mxCell id="d0vmzRhiTrqKJLg9V8bs-46" edge="1" parent="d0vmzRhiTrqKJLg9V8bs-12" source="PL-narIOaq-0Gp_KsNlf-45" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="PL-narIOaq-0Gp_KsNlf-48" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1714" y="619" />
+              <mxPoint x="1720" y="1026" />
+            </Array>
             <mxPoint x="1563" y="1016" as="sourcePoint" />
             <mxPoint x="1696" y="907" as="targetPoint" />
           </mxGeometry>
@@ -3134,6 +3138,18 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1398" y="1012" as="sourcePoint" />
             <mxPoint x="1511" y="711" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0vmzRhiTrqKJLg9V8bs-51" edge="1" parent="d0vmzRhiTrqKJLg9V8bs-12" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1749" y="595" />
+              <mxPoint x="1747" y="480" />
+              <mxPoint x="804" y="480" />
+              <mxPoint x="816" y="311" />
+            </Array>
+            <mxPoint x="1965" y="594.9999999999998" as="sourcePoint" />
+            <mxPoint x="804.4382022471909" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
