@@ -5263,7 +5263,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2floorplan w diagram 2" id="qGgL7oBNIgGoFrhK4417">
-    <mxGraphModel dx="2150" dy="2178" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="1884" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="40ySJVX3YNS-QMOC8UGc-0" />
         <mxCell id="40ySJVX3YNS-QMOC8UGc-1" parent="40ySJVX3YNS-QMOC8UGc-0" style="locked=1;" value="main" />
@@ -8415,6 +8415,36 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1632" y="1500" as="sourcePoint" />
             <mxPoint x="1580" y="1883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPp9joSxxS9jDdhuhR9p-59" edge="1" parent="QPp9joSxxS9jDdhuhR9p-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2265" y="1498" as="sourcePoint" />
+            <mxPoint x="2236" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPp9joSxxS9jDdhuhR9p-60" edge="1" parent="QPp9joSxxS9jDdhuhR9p-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2291" y="1478" as="sourcePoint" />
+            <mxPoint x="2448" y="1504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPp9joSxxS9jDdhuhR9p-61" edge="1" parent="QPp9joSxxS9jDdhuhR9p-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2291" y="1477" as="sourcePoint" />
+            <mxPoint x="2594" y="1504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPp9joSxxS9jDdhuhR9p-62" edge="1" parent="QPp9joSxxS9jDdhuhR9p-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.755;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2291" y="1491" as="sourcePoint" />
+            <mxPoint x="2463" y="1608" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPp9joSxxS9jDdhuhR9p-63" edge="1" parent="QPp9joSxxS9jDdhuhR9p-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.11;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2291" y="1485" as="sourcePoint" />
+            <mxPoint x="2557" y="1608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
