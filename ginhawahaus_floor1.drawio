@@ -7358,9 +7358,6 @@
             <mxPoint x="1803" y="1378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Coi85Zy0IHEhwFjlxF0j-7" parent="JP_Ym_LcojWrw7_O7429-585" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;" value="" vertex="1">
-          <mxGeometry height="50" width="101" x="2878" y="1508" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
